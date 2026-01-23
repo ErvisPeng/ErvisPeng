@@ -23,7 +23,7 @@ An open-source Swift library for parsing brokerage transaction data.
 - Unified `ParsedTrade` output format
 - Zero external dependencies
 
-### 🇯🇵 [Japan Travel Receipt App](https://japan-travel-receipt-app.vercel.app)
+### 🇯🇵 [旅收](https://lvshou.app)
 A smart expense tracking app for Japan travelers.
 - OCR-powered Japanese receipt recognition
 - Auto-categorization and currency conversion
